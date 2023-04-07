@@ -29,10 +29,14 @@ Table of Contents
    + The [final report](https://github.com/Jshulgach/WALL-E-Jr/blob/main/doc/ENME_408_Project_Report_Jonathan_Shulgach.pdf) document also contains detailed assembly and wiring instructions. 
    + Robot structure components were designed using [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription) and lasercut with Basswood material.
    + A wiring diagram is provided below:
+
    ![alt](https://github.com/Jshulgach/WALL-E-Jr/blob/main/doc/wiring.png)
 
-Note 1#: This version never contained a power switch in the original circuit, so I'd recommend implementing your own unless removing the battery to turn off the robot is ok.
-Note 2#: the files for the robot frame are currently missing. As soon as they are found they will be moved to the repo! Modelling your own pieces could be a good challenge if you'd like to make the robot.
+
+   Note 1: This version never contained a power switch in the original circuit, so I'd recommend implementing your own unless removing the battery to turn off the robot is ok. 
+      
+   Note 2: the files for the robot frame are currently missing. As soon as they are found they will be moved to the repo! Modelling your own pieces could be a good challenge if you'd like to make the robot.
+
 ---
 
 
