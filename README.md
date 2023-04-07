@@ -35,7 +35,7 @@ Table of Contents
 
    Note 1: This version never contained a power switch in the original circuit, so I'd recommend implementing your own unless removing the battery to turn off the robot is ok. 
       
-   Note 2: the files for the robot frame are currently missing. As soon as they are found they will be moved to the repo! Modelling your own pieces could be a good challenge if you'd like to make the robot.
+   Note 2: the files for the robot frame are in dxf. Modelling your own pieces could be a good challenge if you'd like to 3D print the robot.
 
 ---
 
